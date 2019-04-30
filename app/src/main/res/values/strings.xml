@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="title">Welcome to Advanture Learning Club!</string>
+    <string name="name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="id">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="reg">Register</string>
+</resources>
